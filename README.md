@@ -1,2 +1,2 @@
-# Image_Classification_CNN_MM
+# Image_Classifier
 Constructed a Image Classifier using Convolutional Neural Networks
