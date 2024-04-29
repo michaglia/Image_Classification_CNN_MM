@@ -5,6 +5,7 @@ This project is based on the assignment of the module _Statistical Methods for M
 The data is taken by [this dataset] (https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification) which contains images of Muffins and Chihuahuas. 
 
 ## Usage
+Here all the dependencies
 ```bash
 pip install -r requirements.txt
 ```
